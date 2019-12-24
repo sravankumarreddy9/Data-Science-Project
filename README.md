@@ -5,4 +5,4 @@ I made predicitions for the dataset permanent magnet synchronus motor dataset to
 
 It is continous dataset.
 
-Prepared models with more than 6 algorithms.
+Prepared models with required algorithms both in R and Python.
