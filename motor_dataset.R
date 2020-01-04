@@ -9,9 +9,7 @@ library(MASS)
 library(ggplot2)
 library(readr)
 library(shiny)
-rsconnect::setAccountInfo(name='sravankumarreddy',
-                          token='65E2E4E8421156A813BF228DEEB2BBD3',
-                          secret='Z6boagfz83IskFKB6rw5aaPElvsOBhZS9UsBvZSW')
+
 library(rsconnect)
 rsconnect::deployApp("C:\\Users\\reddymv\\Desktop")
 motor <- read.csv(file.choose())
