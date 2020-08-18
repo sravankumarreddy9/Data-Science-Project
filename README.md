@@ -6,13 +6,13 @@ Measurement of quantities like temperature, torque of the rotor is important in 
 
 The goal of the project is to efficiently predict the rotor temperature of a permanent magnet synchronous motor (PMSM), as it is usually difficult to measure the rotor temperature. This kind of prediction helps to reduce the amount of equipment that is to be mounted on to the motor to measure the temperature.
 
-1. Problem Statement
+#1. Problem Statement
 
 
 Predicting rotor temperature of the rotor of a Permanent Magnet Synchronous Motor(PMSM) given other sensor measurements during operation.
 
 
-2. Data Description
+#2. Data Description
 
 
 This project uses the electric-motor-temperature dataset to predict the rotor temperature of a motor.
